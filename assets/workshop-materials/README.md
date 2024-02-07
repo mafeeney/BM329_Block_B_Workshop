@@ -30,5 +30,4 @@ co-infections.)
 (`BM329_Workshop_B_Instructions.docx`). 
 
 If you wish to include a second round (with vaccines), print 
-a copy of the additional instructions (`BM329_Workshop_B_Instructions-
-For_Additional_Round_If-Time.docx`).
+additional copies of the instructions (double the amount printed).
